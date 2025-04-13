@@ -21,7 +21,7 @@ You can get the files in two ways:
 
 - **Download ZIP:**  
   Click on the green **Code** button and choose **Download ZIP**.
-  ### 📥 [Click here to download the latest project crx](https://github.com/PranshuJadaun/tracKO/blob/main/Ready%20To%20Run/tracKO.zip)
+  ### 📥 [Click here to download the latest project ZIP](https://github.com/PranshuJadaun/tracKO/blob/main/Ready%20To%20Run/tracKO.zip)
 
 
 
