@@ -27,7 +27,7 @@ You can get the files in two ways:
 
 - **Clone using Git:**  
   ```bash
-  git clone https://github.com/YOUR_USERNAME/tracko-extension.git
+  git clone https://github.com/PranshuJadaun/tracKO.git
 
 ### 2. Install in Chrome
 - **1. Open Chrome and go to: chrome://extensions**
