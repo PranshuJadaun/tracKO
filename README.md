@@ -38,35 +38,35 @@ You can get the files in two ways:
 
 ### 📦 What’s Inside
 
-tracko-extension/
-│
-├── manifest.json     # Extension setup file
-├── background.js     # Background script
-├── content.js        # Main tracking and AI code
-├── logo.png          # Extension logo
-└── README.md         # This file
+- tracko-extension/
+- │
+- ├── manifest.json     # Extension setup file
+- ├── background.js     # Background script
+- ├── content.js        # Main tracking and AI code
+- ├── logo.png          # Extension logo
+- └── README.md         # This file
 
 ### 🚀 How It Works
 
-It reads the title of the YouTube video.
-It sends the title to an AI model that tells if it's academic or entertainment.
-It starts a timer based on the category.
-It saves the time locally in your browser every few seconds.
+- It reads the title of the YouTube video.
+- It sends the title to an AI model that tells if it's academic or entertainment.
+- It starts a timer based on the category.
+- It saves the time locally in your browser every few seconds.
 
 ### 💡 Coming Soon
 
-Warnings if you watch too much entertainment
-A dashboard to see your stats
-Export your data to a file
+- Warnings if you watch too much entertainment
+- A dashboard to see your stats
+- Export your data to a file
 
 ### 🙌 Want to Help?
 
 You can:
 
-⭐ Star this repo
-🐛 Report bugs
-🌟 Suggest new features
-📬 Contribute code
+- ⭐ Star this repo
+- 🐛 Report bugs
+- 🌟 Suggest new features
+- 📬 Contribute code
 
 ### 📃 License
 
@@ -74,5 +74,5 @@ This project is open-source under the MIT License. You are free to use, modify, 
 
 👨‍💻 Author
 
-**Made with ❤️ by Pranshu**
-**GitHub: @PranshuJadaun**
+- **Made with ❤️ by Pranshu**
+- **GitHub: @PranshuJadaun**
