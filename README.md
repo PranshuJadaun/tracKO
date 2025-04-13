@@ -20,7 +20,10 @@
 You can get the files in two ways:
 
 - **Download ZIP:**  
-  Click on the green **Code** button and choose **Download ZIP**.
+  Click on the green **Code** button and choose **Download CRX**.
+  ### 📥 [Click here to download the latest project crx](https://github.com/PranshuJadaun/tracKO/blob/main/Ready%20To%20Run/tracKO.crx)
+
+
 
 - **Clone using Git:**  
   ```bash
