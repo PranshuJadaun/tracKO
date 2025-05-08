@@ -80,7 +80,7 @@ function getVideoTitle() {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "Authorization": "Bearer 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"
+        "Authorization": "Your_API"
       },
       body: JSON.stringify({
         model: "meta-llama/llama-4-scout-17b-16e-instruct",
